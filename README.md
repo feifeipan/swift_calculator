@@ -1,6 +1,3 @@
-# swift_alamofire
+# swift_calculator
 
-使用alamofire进行swift网络层编码
-
-安装alamofire，采用的是Carthage
-https://github.com/Alamofire/Alamofire
+swift入门计算器，参考网易公开课。
